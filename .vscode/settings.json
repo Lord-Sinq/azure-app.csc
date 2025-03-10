@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ffda671b-1061-42ed-9a21-7d61f51cb3dc/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/AzureDemo-CheeseFinder",
+    "appService.deploySubpath": "."
+}
